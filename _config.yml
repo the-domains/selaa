@@ -1,14 +1,14 @@
 layout_spectrum: 0.7577374160755426
-typography_spectrum: 0.014980785315856338
+typography_spectrum: 0.3219330576248467
 color:
-  brandStrength: 0.09723603213205934
-  lightness: 0.043066842714324594
-  saturation: 0.40401192870922387
-  rhythmicContrast: 0.25729765417054296
+  brandStrength: 0.43703570985235274
+  lightness: 0.680664673447609
+  saturation: 0.4932789143640548
+  rhythmicContrast: 0.8611169878859073
   brandColors:
-    - '#004358'
-    - '#1F8A70'
-    - '#BEDB39'
-    - '#FFE11A'
-    - '#FD7400'
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
 name: Selaa

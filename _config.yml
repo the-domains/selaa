@@ -1,4 +1,6 @@
 typography_spectrum: 0.3219330576248467
+content_rating:
+  adult: false
 color:
   brandStrength: 0.43703570985235274
   lightness: 0.680664673447609
@@ -12,6 +14,6 @@ color:
     - '#00A388'
 layout_spectrum: 0.7577374160755426
 logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5114e4ae-97ee-4674-a703-8448d6b55c68.png
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7a8e937-9cc5-4f86-a4aa-0d0204a8b5a0.png
 name: Selaa.in
 title: Real Asset
